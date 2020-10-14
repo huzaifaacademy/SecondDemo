@@ -5,3 +5,5 @@ New changes
 Changes is to be committed
 
 Merging is under process
+
+demo for rebase in master
