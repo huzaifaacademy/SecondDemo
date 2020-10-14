@@ -3,3 +3,5 @@ This is new file
 New changes for demo
 
 Changes from second teammate
+
+Merging is under process again
